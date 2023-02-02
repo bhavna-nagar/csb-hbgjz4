@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://bhavna-nagar.github.io/csb-hbgjz4/static/css/main.383fdbca.chunk.css",
+    "main.js": "https://bhavna-nagar.github.io/csb-hbgjz4/static/js/main.c5e97e16.chunk.js",
+    "main.js.map": "https://bhavna-nagar.github.io/csb-hbgjz4/static/js/main.c5e97e16.chunk.js.map",
+    "runtime-main.js": "https://bhavna-nagar.github.io/csb-hbgjz4/static/js/runtime-main.d9a80261.js",
+    "runtime-main.js.map": "https://bhavna-nagar.github.io/csb-hbgjz4/static/js/runtime-main.d9a80261.js.map",
+    "static/js/2.921aeef3.chunk.js": "https://bhavna-nagar.github.io/csb-hbgjz4/static/js/2.921aeef3.chunk.js",
+    "static/js/2.921aeef3.chunk.js.map": "https://bhavna-nagar.github.io/csb-hbgjz4/static/js/2.921aeef3.chunk.js.map",
+    "index.html": "https://bhavna-nagar.github.io/csb-hbgjz4/index.html",
+    "static/css/main.383fdbca.chunk.css.map": "https://bhavna-nagar.github.io/csb-hbgjz4/static/css/main.383fdbca.chunk.css.map",
+    "static/js/2.921aeef3.chunk.js.LICENSE.txt": "https://bhavna-nagar.github.io/csb-hbgjz4/static/js/2.921aeef3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9a80261.js",
+    "static/js/2.921aeef3.chunk.js",
+    "static/css/main.383fdbca.chunk.css",
+    "static/js/main.c5e97e16.chunk.js"
+  ]
+}
